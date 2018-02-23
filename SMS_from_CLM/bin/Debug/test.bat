@@ -1,0 +1,1 @@
+erSMS.exe push COM19 000 00 is_up

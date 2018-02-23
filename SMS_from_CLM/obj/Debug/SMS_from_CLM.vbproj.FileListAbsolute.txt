@@ -1,0 +1,146 @@
+c:\users\r2y\documents\visual studio 2015\Projects\SMS_from_CLM\SMS_from_CLM\obj\Debug\SMS_from_CLM.Form1.resources
+c:\users\r2y\documents\visual studio 2015\Projects\SMS_from_CLM\SMS_from_CLM\obj\Debug\SMS_from_CLM.Form2.resources
+c:\users\r2y\documents\visual studio 2015\Projects\SMS_from_CLM\SMS_from_CLM\obj\Debug\SMS_from_CLM.Resources.resources
+c:\users\r2y\documents\visual studio 2015\Projects\SMS_from_CLM\SMS_from_CLM\obj\Debug\SMS_from_CLM.vbproj.GenerateResource.Cache
+C:\Users\R2Y\Documents\Visual Studio 2015\Projects\SMS_from_CLM\SMS_from_CLM\bin\Debug\erSMS.exe.config
+C:\Users\R2Y\Documents\Visual Studio 2015\Projects\SMS_from_CLM\SMS_from_CLM\bin\Debug\erSMS.exe
+C:\Users\R2Y\Documents\Visual Studio 2015\Projects\SMS_from_CLM\SMS_from_CLM\bin\Debug\erSMS.pdb
+C:\Users\R2Y\Documents\Visual Studio 2015\Projects\SMS_from_CLM\SMS_from_CLM\bin\Debug\erSMS.xml
+C:\Users\R2Y\Documents\Visual Studio 2015\Projects\SMS_from_CLM\SMS_from_CLM\obj\Debug\erSMS.exe
+C:\Users\R2Y\Documents\Visual Studio 2015\Projects\SMS_from_CLM\SMS_from_CLM\obj\Debug\erSMS.xml
+C:\Users\R2Y\Documents\Visual Studio 2015\Projects\SMS_from_CLM\SMS_from_CLM\obj\Debug\erSMS.pdb
+C:\Users\R2Y\Documents\Visual Studio 2015\Projects\SMS_from_CLM\SMS_from_CLM\obj\Debug\SMS_from_CLM.vbprojResolveAssemblyReference.cache
+C:\Users\AdNet\Desktop\erSMS\SMS_from_CLM\bin\Debug\erSMS.exe.config
+C:\Users\AdNet\Desktop\erSMS\SMS_from_CLM\obj\Debug\erSMS.exe
+C:\Users\AdNet\Desktop\erSMS\SMS_from_CLM\obj\Debug\erSMS.xml
+C:\Users\AdNet\Desktop\erSMS\SMS_from_CLM\obj\Debug\erSMS.pdb
+C:\Users\AdNet\Desktop\erSMS\SMS_from_CLM\bin\Debug\erSMS.exe
+C:\Users\AdNet\Desktop\erSMS\SMS_from_CLM\bin\Debug\erSMS.pdb
+C:\Users\AdNet\Desktop\erSMS\SMS_from_CLM\bin\Debug\erSMS.xml
+C:\Users\AdNet\Desktop\erSMS\SMS_from_CLM\obj\Debug\SMS_from_CLM.vbprojResolveAssemblyReference.cache
+C:\Users\AdNet\Desktop\erSMS\SMS_from_CLM\obj\Debug\SMS_from_CLM.Form1.resources
+C:\Users\AdNet\Desktop\erSMS\SMS_from_CLM\obj\Debug\SMS_from_CLM.Form2.resources
+C:\Users\AdNet\Desktop\erSMS\SMS_from_CLM\obj\Debug\SMS_from_CLM.Resources.resources
+C:\Users\AdNet\Desktop\erSMS\SMS_from_CLM\obj\Debug\SMS_from_CLM.vbproj.GenerateResource.Cache
+C:\Users\AdNet\Desktop\erSMS(тестовая версия с полными путями)\SMS_from_CLM\bin\Debug\erSMS.exe.config
+C:\Users\AdNet\Desktop\erSMS(тестовая версия с полными путями)\SMS_from_CLM\obj\Debug\erSMS.exe
+C:\Users\AdNet\Desktop\erSMS(тестовая версия с полными путями)\SMS_from_CLM\obj\Debug\erSMS.xml
+C:\Users\AdNet\Desktop\erSMS(тестовая версия с полными путями)\SMS_from_CLM\obj\Debug\erSMS.pdb
+F:\OneDrive\my projects\erSMS(рабочая версия с полными путями)\SMS_from_CLM\bin\Debug\erSMS.exe.config
+F:\OneDrive\my projects\erSMS(рабочая версия с полными путями)\SMS_from_CLM\obj\Debug\erSMS.exe
+F:\OneDrive\my projects\erSMS(рабочая версия с полными путями)\SMS_from_CLM\obj\Debug\erSMS.xml
+F:\OneDrive\my projects\erSMS(рабочая версия с полными путями)\SMS_from_CLM\obj\Debug\erSMS.pdb
+F:\OneDrive\my projects\erSMS(рабочая версия с полными путями)\SMS_from_CLM\bin\Debug\erSMS.exe
+F:\OneDrive\my projects\erSMS(рабочая версия с полными путями)\SMS_from_CLM\bin\Debug\erSMS.pdb
+F:\OneDrive\my projects\erSMS(рабочая версия с полными путями)\SMS_from_CLM\bin\Debug\erSMS.xml
+F:\OneDrive\my projects\erSMS(рабочая версия с полными путями)\SMS_from_CLM\obj\Debug\SMS_from_CLM.vbprojResolveAssemblyReference.cache
+F:\OneDrive\my projects\erSMS(рабочая версия с полными путями)\SMS_from_CLM\obj\Debug\SMS_from_CLM.Form1.resources
+F:\OneDrive\my projects\erSMS(рабочая версия с полными путями)\SMS_from_CLM\obj\Debug\SMS_from_CLM.Form2.resources
+F:\OneDrive\my projects\erSMS(рабочая версия с полными путями)\SMS_from_CLM\obj\Debug\SMS_from_CLM.Resources.resources
+F:\OneDrive\my projects\erSMS(рабочая версия с полными путями)\SMS_from_CLM\obj\Debug\SMS_from_CLM.vbproj.GenerateResource.Cache
+E:\OneDrive\my projects\erSMS(рабочая версия с полными путями)\SMS_from_CLM\bin\Debug\erSMS.exe.config
+E:\OneDrive\my projects\erSMS(рабочая версия с полными путями)\SMS_from_CLM\obj\Debug\erSMS.exe
+E:\OneDrive\my projects\erSMS(рабочая версия с полными путями)\SMS_from_CLM\obj\Debug\erSMS.xml
+E:\OneDrive\my projects\erSMS(рабочая версия с полными путями)\SMS_from_CLM\obj\Debug\erSMS.pdb
+E:\OneDrive\my projects\erSMS(рабочая версия с полными путями)\SMS_from_CLM\bin\Debug\erSMS.exe
+E:\OneDrive\my projects\erSMS(рабочая версия с полными путями)\SMS_from_CLM\bin\Debug\erSMS.pdb
+E:\OneDrive\my projects\erSMS(рабочая версия с полными путями)\SMS_from_CLM\bin\Debug\erSMS.xml
+E:\OneDrive\my projects\erSMS(рабочая версия с полными путями)\SMS_from_CLM\obj\Debug\SMS_from_CLM.vbprojResolveAssemblyReference.cache
+E:\OneDrive\my projects\erSMS(рабочая версия с полными путями)\SMS_from_CLM\obj\Debug\SMS_from_CLM.Form1.resources
+E:\OneDrive\my projects\erSMS(рабочая версия с полными путями)\SMS_from_CLM\obj\Debug\SMS_from_CLM.Form2.resources
+E:\OneDrive\my projects\erSMS(рабочая версия с полными путями)\SMS_from_CLM\obj\Debug\SMS_from_CLM.Resources.resources
+E:\OneDrive\my projects\erSMS(рабочая версия с полными путями)\SMS_from_CLM\obj\Debug\SMS_from_CLM.vbproj.GenerateResource.Cache
+C:\Users\R2Y\Desktop\erSMS(рабочая версия с полными путями)\SMS_from_CLM\bin\Debug\erSMS.exe.config
+C:\Users\R2Y\Desktop\erSMS(рабочая версия с полными путями)\SMS_from_CLM\obj\Debug\erSMS.exe
+C:\Users\R2Y\Desktop\erSMS(рабочая версия с полными путями)\SMS_from_CLM\obj\Debug\erSMS.xml
+C:\Users\R2Y\Desktop\erSMS(рабочая версия с полными путями)\SMS_from_CLM\obj\Debug\erSMS.pdb
+C:\Users\R2Y\Desktop\erSMS(рабочая версия с полными путями)\SMS_from_CLM\bin\Debug\erSMS.exe
+C:\Users\R2Y\Desktop\erSMS(рабочая версия с полными путями)\SMS_from_CLM\bin\Debug\erSMS.pdb
+C:\Users\R2Y\Desktop\erSMS(рабочая версия с полными путями)\SMS_from_CLM\bin\Debug\erSMS.xml
+C:\Users\R2Y\Desktop\erSMS(рабочая версия с полными путями)\SMS_from_CLM\obj\Debug\SMS_from_CLM.vbprojResolveAssemblyReference.cache
+C:\Users\R2Y\Desktop\erSMS(рабочая версия с полными путями)\SMS_from_CLM\obj\Debug\SMS_from_CLM.Form1.resources
+C:\Users\R2Y\Desktop\erSMS(рабочая версия с полными путями)\SMS_from_CLM\obj\Debug\SMS_from_CLM.Form2.resources
+C:\Users\R2Y\Desktop\erSMS(рабочая версия с полными путями)\SMS_from_CLM\obj\Debug\SMS_from_CLM.Resources.resources
+C:\Users\R2Y\Desktop\erSMS(рабочая версия с полными путями)\SMS_from_CLM\obj\Debug\SMS_from_CLM.vbproj.GenerateResource.Cache
+E:\LOCAL_REPOSITORY\erSMS(рабочая версия с полными путями)\SMS_from_CLM\bin\Debug\erSMS.exe.config
+E:\LOCAL_REPOSITORY\erSMS(рабочая версия с полными путями)\SMS_from_CLM\obj\Debug\erSMS.exe
+E:\LOCAL_REPOSITORY\erSMS(рабочая версия с полными путями)\SMS_from_CLM\obj\Debug\erSMS.xml
+E:\LOCAL_REPOSITORY\erSMS(рабочая версия с полными путями)\SMS_from_CLM\obj\Debug\erSMS.pdb
+E:\LOCAL_REPOSITORY\erSMS(рабочая версия с полными путями)\SMS_from_CLM\bin\Debug\erSMS.exe
+E:\LOCAL_REPOSITORY\erSMS(рабочая версия с полными путями)\SMS_from_CLM\bin\Debug\erSMS.pdb
+E:\LOCAL_REPOSITORY\erSMS(рабочая версия с полными путями)\SMS_from_CLM\bin\Debug\erSMS.xml
+E:\LOCAL_REPOSITORY\erSMS(рабочая версия с полными путями)\SMS_from_CLM\obj\Debug\SMS_from_CLM.vbprojResolveAssemblyReference.cache
+E:\LOCAL_REPOSITORY\erSMS(рабочая версия с полными путями)\SMS_from_CLM\obj\Debug\SMS_from_CLM.Form1.resources
+E:\LOCAL_REPOSITORY\erSMS(рабочая версия с полными путями)\SMS_from_CLM\obj\Debug\SMS_from_CLM.Form2.resources
+E:\LOCAL_REPOSITORY\erSMS(рабочая версия с полными путями)\SMS_from_CLM\obj\Debug\SMS_from_CLM.Resources.resources
+E:\LOCAL_REPOSITORY\erSMS(рабочая версия с полными путями)\SMS_from_CLM\obj\Debug\SMS_from_CLM.vbproj.GenerateResource.Cache
+E:\LOCAL_REPOSITORY\erSMS_v1.x\SMS_from_CLM\bin\Debug\erSMS.exe.config
+E:\LOCAL_REPOSITORY\erSMS_v1.x\SMS_from_CLM\obj\Debug\erSMS.exe
+E:\LOCAL_REPOSITORY\erSMS_v1.x\SMS_from_CLM\obj\Debug\erSMS.xml
+E:\LOCAL_REPOSITORY\erSMS_v1.x\SMS_from_CLM\obj\Debug\erSMS.pdb
+E:\LOCAL_REPOSITORY\erSMS_v1.x\SMS_from_CLM\bin\Debug\erSMS.exe
+E:\LOCAL_REPOSITORY\erSMS_v1.x\SMS_from_CLM\bin\Debug\erSMS.pdb
+E:\LOCAL_REPOSITORY\erSMS_v1.x\SMS_from_CLM\bin\Debug\erSMS.xml
+E:\LOCAL_REPOSITORY\erSMS_v1.x\SMS_from_CLM\obj\Debug\SMS_from_CLM.vbprojResolveAssemblyReference.cache
+E:\LOCAL_REPOSITORY\erSMS_v1.x\SMS_from_CLM\obj\Debug\SMS_from_CLM.Form1.resources
+E:\LOCAL_REPOSITORY\erSMS_v1.x\SMS_from_CLM\obj\Debug\SMS_from_CLM.Form2.resources
+E:\LOCAL_REPOSITORY\erSMS_v1.x\SMS_from_CLM\obj\Debug\SMS_from_CLM.Resources.resources
+E:\LOCAL_REPOSITORY\erSMS_v1.x\SMS_from_CLM\obj\Debug\SMS_from_CLM.vbproj.GenerateResource.Cache
+F:\PROJECTS\erSMS\SMS_from_CLM\bin\Debug\erSMS.exe.config
+F:\PROJECTS\erSMS\SMS_from_CLM\obj\Debug\erSMS.exe
+F:\PROJECTS\erSMS\SMS_from_CLM\obj\Debug\erSMS.xml
+F:\PROJECTS\erSMS\SMS_from_CLM\obj\Debug\erSMS.pdb
+F:\PROJECTS\erSMS\SMS_from_CLM\bin\Debug\erSMS.exe
+F:\PROJECTS\erSMS\SMS_from_CLM\bin\Debug\erSMS.pdb
+F:\PROJECTS\erSMS\SMS_from_CLM\bin\Debug\erSMS.xml
+F:\PROJECTS\erSMS\SMS_from_CLM\obj\Debug\SMS_from_CLM.vbprojResolveAssemblyReference.cache
+F:\PROJECTS\erSMS\SMS_from_CLM\obj\Debug\SMS_from_CLM.Form1.resources
+F:\PROJECTS\erSMS\SMS_from_CLM\obj\Debug\SMS_from_CLM.Form2.resources
+F:\PROJECTS\erSMS\SMS_from_CLM\obj\Debug\SMS_from_CLM.Resources.resources
+F:\PROJECTS\erSMS\SMS_from_CLM\obj\Debug\SMS_from_CLM.vbproj.GenerateResource.Cache
+C:\Users\adnet\Source\Repos\erSMS_v1.x\SMS_from_CLM\bin\Debug\erSMS.exe.config
+C:\Users\adnet\Source\Repos\erSMS_v1.x\SMS_from_CLM\obj\Debug\erSMS.exe
+C:\Users\adnet\Source\Repos\erSMS_v1.x\SMS_from_CLM\obj\Debug\erSMS.xml
+C:\Users\adnet\Source\Repos\erSMS_v1.x\SMS_from_CLM\obj\Debug\erSMS.pdb
+C:\Users\adnet\Source\Repos\erSMS_v1.x\SMS_from_CLM\bin\Debug\erSMS.exe
+C:\Users\adnet\Source\Repos\erSMS_v1.x\SMS_from_CLM\bin\Debug\erSMS.pdb
+C:\Users\adnet\Source\Repos\erSMS_v1.x\SMS_from_CLM\bin\Debug\erSMS.xml
+C:\Users\adnet\Source\Repos\erSMS_v1.x\SMS_from_CLM\obj\Debug\SMS_from_CLM.vbprojResolveAssemblyReference.cache
+C:\Users\adnet\Source\Repos\erSMS_v1.x\SMS_from_CLM\obj\Debug\SMS_from_CLM.Form1.resources
+C:\Users\adnet\Source\Repos\erSMS_v1.x\SMS_from_CLM\obj\Debug\SMS_from_CLM.Form2.resources
+C:\Users\adnet\Source\Repos\erSMS_v1.x\SMS_from_CLM\obj\Debug\SMS_from_CLM.Resources.resources
+C:\Users\adnet\Source\Repos\erSMS_v1.x\SMS_from_CLM\obj\Debug\SMS_from_CLM.vbproj.GenerateResource.Cache
+D:\LOCAL_REPOSITORY\erSMS\SMS_from_CLM\bin\Debug\erSMS.exe.config
+D:\LOCAL_REPOSITORY\erSMS\SMS_from_CLM\obj\Debug\erSMS.exe
+D:\LOCAL_REPOSITORY\erSMS\SMS_from_CLM\obj\Debug\erSMS.xml
+D:\LOCAL_REPOSITORY\erSMS\SMS_from_CLM\obj\Debug\erSMS.pdb
+D:\LOCAL_REPOSITORY\erSMS\SMS_from_CLM\obj\Debug\SMS_from_CLM.Form1.resources
+D:\LOCAL_REPOSITORY\erSMS\SMS_from_CLM\obj\Debug\SMS_from_CLM.Form2.resources
+D:\LOCAL_REPOSITORY\erSMS\SMS_from_CLM\obj\Debug\SMS_from_CLM.Resources.resources
+D:\LOCAL_REPOSITORY\erSMS\SMS_from_CLM\obj\Debug\SMS_from_CLM.vbproj.GenerateResource.Cache
+D:\LOCAL_REPOSITORY\erSMS\SMS_from_CLM\bin\Debug\erSMS.exe
+D:\LOCAL_REPOSITORY\erSMS\SMS_from_CLM\bin\Debug\erSMS.pdb
+D:\LOCAL_REPOSITORY\erSMS\SMS_from_CLM\bin\Debug\erSMS.xml
+D:\LOCAL_REPOSITORY\erSMS\SMS_from_CLM\obj\Debug\SMS_from_CLM.vbprojResolveAssemblyReference.cache
+D:\LOCAL_REPOSITORY\erSMS_v1.4+\SMS_from_CLM\bin\Debug\erSMS.exe.config
+D:\LOCAL_REPOSITORY\erSMS_v1.4+\SMS_from_CLM\obj\Debug\erSMS.exe
+D:\LOCAL_REPOSITORY\erSMS_v1.4+\SMS_from_CLM\obj\Debug\erSMS.xml
+D:\LOCAL_REPOSITORY\erSMS_v1.4+\SMS_from_CLM\obj\Debug\erSMS.pdb
+D:\LOCAL_REPOSITORY\erSMS_v1.4+\SMS_from_CLM\obj\Debug\SMS_from_CLM.vbprojResolveAssemblyReference.cache
+D:\LOCAL_REPOSITORY\erSMS_v1.4+\SMS_from_CLM\obj\Debug\SMS_from_CLM.Form2.resources
+D:\LOCAL_REPOSITORY\erSMS_v1.4+\SMS_from_CLM\obj\Debug\SMS_from_CLM.Resources.resources
+D:\LOCAL_REPOSITORY\erSMS_v1.4+\SMS_from_CLM\obj\Debug\SMS_from_CLM.vbproj.GenerateResource.Cache
+D:\LOCAL_REPOSITORY\erSMS_v1.4+\SMS_from_CLM\bin\Debug\erSMS.exe
+D:\LOCAL_REPOSITORY\erSMS_v1.4+\SMS_from_CLM\bin\Debug\erSMS.pdb
+D:\LOCAL_REPOSITORY\erSMS_v1.4+\SMS_from_CLM\bin\Debug\erSMS.xml
+D:\LOCAL_REPOSITORY\erSMS_v1.4\SMS_from_CLM\bin\Debug\erSMS.exe.config
+D:\LOCAL_REPOSITORY\erSMS_v1.4\SMS_from_CLM\obj\Debug\erSMS.exe
+D:\LOCAL_REPOSITORY\erSMS_v1.4\SMS_from_CLM\obj\Debug\erSMS.xml
+D:\LOCAL_REPOSITORY\erSMS_v1.4\SMS_from_CLM\obj\Debug\erSMS.pdb
+D:\LOCAL_REPOSITORY\erSMS_v1.4\SMS_from_CLM\obj\Debug\SMS_from_CLM.vbprojResolveAssemblyReference.cache
+D:\LOCAL_REPOSITORY\erSMS_v1.4\SMS_from_CLM\obj\Debug\SMS_from_CLM.Form2.resources
+D:\LOCAL_REPOSITORY\erSMS_v1.4\SMS_from_CLM\obj\Debug\SMS_from_CLM.Resources.resources
+D:\LOCAL_REPOSITORY\erSMS_v1.4\SMS_from_CLM\obj\Debug\SMS_from_CLM.vbproj.GenerateResource.Cache
+D:\LOCAL_REPOSITORY\erSMS_v1.4\SMS_from_CLM\bin\Debug\erSMS.exe
+D:\LOCAL_REPOSITORY\erSMS_v1.4\SMS_from_CLM\bin\Debug\erSMS.pdb
+D:\LOCAL_REPOSITORY\erSMS_v1.4\SMS_from_CLM\bin\Debug\erSMS.xml
